@@ -1,4 +1,20 @@
+# Team ID: IM003
+# Team Members:
+# ABHINAY YADAV (1CR17CS400)
+# NAGENDRA P (1CR16CS417)
+# LAVANYA R A (1CR16CS414)
+
+# Abstract 
+Handwritten text recognition is still an open research issue in the domain of Optical Character
+Recognition (OCR). This paper proposes an efficient approach towards the development of
+handwritten text recognition systems. The choice of optimal feature vectors greatly the accuracy
+of any text recognition system therefore bit map representation of input samples are utilized as
+feature vector. The feature vectors are first Pre-processed and then applied to the NN along with
+the generated target vectors that are generated on the basis on input samples.
+
+
 # HandWritten-text-recogination-project
+
 ### Description
 Use Convolutional Recurrent Neural Network to recognize the Handwritten line text image without pre segmentation into words or characters. Use CTC loss Function to train.
 
